@@ -17,7 +17,7 @@ Voici une liste de quelques-uns de mes projets :
 
 N'hésitez pas à me contacter si vous avez des questions, des suggestions ou des opportunités de collaboration :
 
-- Email: rakotondratafikarijanomena@gmailcom
+- Email: rakotondratafikarijanomena@gmail.com
 - LinkedIn: [Rija nomena Rakoto](https://www.linkedin.com/in/rija-nomena-rakoto-863a00232/)
 - GitHub: [Ezaka104](https://github.com/Ezaka104/SAYNA-CULTUREG-PROJET1/edit/main/README.md)
 
